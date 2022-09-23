@@ -12,235 +12,127 @@
                     "arcs": [[[0]], [[1]], [[2, 3, 4, 5, 6]]],
                     "type": "MultiPolygon",
                     "properties": {
-                        "ISO": "ESP",
                         "NAME_0": "Spain",
-                        "ID_1": 935,
-                        "NAME_1": "Andalucía",
-                        "VARNAME_1": "Andalousie|Andaluc¡a|Andalusien|Andaluzia",
-                        "HASC_1": "ES.AN",
-                        "TYPE_1": "Comunidad Autónoma",
-                        "ENGTYPE_1": "Autonomous Community"
+                        "NAME_1": "Andalucía"
                     }
                 }, {
                     "arcs": [[7, 8, 9, 10, 11, 12, 13, 14, 15]],
                     "type": "Polygon",
                     "properties": {
-                        "ISO": "ESP",
                         "NAME_0": "Spain",
-                        "ID_1": 936,
-                        "NAME_1": "Aragón",
-                        "VARNAME_1": "Aragão|Aragó|Aragón|Aragona|Aragonien",
-                        "HASC_1": "ES.AR",
-                        "TYPE_1": "Comunidad Autónoma",
-                        "ENGTYPE_1": "Autonomous Community"
+                        "NAME_1": "Aragón"
                     }
                 }, {
                     "arcs": [[[16]], [[17, 18, 19, 20], [21]]],
                     "type": "MultiPolygon",
                     "properties": {
-                        "ISO": "ESP",
                         "NAME_0": "Spain",
-                        "ID_1": 937,
-                        "NAME_1": "Cantabria",
-                        "VARNAME_1": "Cantàbria|Cantábria|Cantabrie|Kantabrien",
-                        "HASC_1": "ES.CB",
-                        "TYPE_1": "Comunidad Autónoma",
-                        "ENGTYPE_1": "Autonomous Community"
+                        "NAME_1": "Cantabria"
                     }
                 }, {
                     "arcs": [[[22]], [[-22]], [[23, 24, -14, 25, 26, 27, 28, 29, 30, 31, -19], [32]]],
                     "type": "MultiPolygon",
                     "properties": {
-                        "ISO": "ESP",
                         "NAME_0": "Spain",
-                        "ID_1": 938,
-                        "NAME_1": "Castilla y León",
-                        "VARNAME_1": "Castile and Leon|Castela e Leão|Castella i Lleó|Castile-Leon|Castilha-Leão|Castilla y León|Castille et Léon|Kastilien-León",
-                        "HASC_1": "ES.CL",
-                        "TYPE_1": "Comunidad Autónoma",
-                        "ENGTYPE_1": "Autonomous Community"
+                        "NAME_1": "Castilla y León"
                     }
                 }, {
                     "arcs": [[-13, 33, -11, 34, 35, -5, 36, -28, 37, -26]],
                     "type": "Polygon",
                     "properties": {
-                        "ISO": "ESP",
                         "NAME_0": "Spain",
-                        "ID_1": 939,
-                        "NAME_1": "Castilla-La Mancha",
-                        "VARNAME_1": "Castela-La Mancha|Castela-Mancha|Castella-la Manxa|Castilha-La Mancha",
-                        "HASC_1": "ES.CM",
-                        "TYPE_1": "Comunidad Autónoma",
-                        "ENGTYPE_1": "Autonomous Community"
+                        "NAME_1": "Castilla-La Mancha"
                     }
                 }, {
                     "arcs": [[[38]], [[39, -9, 40]]],
                     "type": "MultiPolygon",
                     "properties": {
-                        "ISO": "ESP",
                         "NAME_0": "Spain",
-                        "ID_1": 940,
-                        "NAME_1": "Cataluña",
-                        "VARNAME_1": "Catalogna|Catalogne|Catalonia|Catalunha|Catalunya|Katalonien",
-                        "HASC_1": "ES.CT",
-                        "TYPE_1": "Comunidad Autónoma",
-                        "ENGTYPE_1": "Autonomous Community"
+                        "NAME_1": "Cataluña"
                     }
                 }, {
                     "arcs": [[[41]], [[42]]],
                     "type": "MultiPolygon",
                     "properties": {
-                        "ISO": "ESP",
                         "NAME_0": "Spain",
-                        "ID_1": 941,
-                        "NAME_1": "Ceuta y Melilla",
-                        "VARNAME_1": "",
-                        "HASC_1": "ES.CE",
-                        "TYPE_1": "Ciudades Autónomas",
-                        "ENGTYPE_1": "Autonomous City"
+                        "NAME_1": "Ceuta y Melilla"
                     }
                 }, {
                     "arcs": [[[-33]], [[-27, -38]]],
                     "type": "MultiPolygon",
                     "properties": {
-                        "ISO": "ESP",
                         "NAME_0": "Spain",
-                        "ID_1": 942,
-                        "NAME_1": "Comunidad de Madrid",
-                        "VARNAME_1": "Madrid|Communauté de Madrid| Community of Madrid|Comunidad de Madrid |Comunidade de Madrid|Comunitat de Madrid",
-                        "HASC_1": "ES.MD",
-                        "TYPE_1": "Comunidad Autónoma",
-                        "ENGTYPE_1": "Autonomous Community"
+                        "NAME_1": "Comunidad de Madrid"
                     }
                 }, {
                     "arcs": [[-16, 43, 44, 45]],
                     "type": "Polygon",
                     "properties": {
-                        "ISO": "ESP",
                         "NAME_0": "Spain",
-                        "ID_1": 943,
-                        "NAME_1": "Comunidad Foral de Navarra",
-                        "VARNAME_1": "Communauté forale de Navarre|Comunidade Foral de Navarra|Comunitat Foral|Navarra",
-                        "HASC_1": "ES.NA",
-                        "TYPE_1": "Comunidad Autónoma",
-                        "ENGTYPE_1": "Autonomous Community"
+                        "NAME_1": "Comunidad Foral de Navarra"
                     }
                 }, {
                     "arcs": [[[-34, -12]], [[-40, 46, 47, -35, -10]]],
                     "type": "MultiPolygon",
                     "properties": {
-                        "ISO": "ESP",
                         "NAME_0": "Spain",
-                        "ID_1": 944,
-                        "NAME_1": "Comunidad Valenciana",
-                        "VARNAME_1": "Valencia|Communauté de Valence|Comunidade Valenciana|Comunidad Valenciana|Comunitat Valenciana",
-                        "HASC_1": "ES.VC",
-                        "TYPE_1": "Comunidad Autónoma",
-                        "ENGTYPE_1": "Autonomous Community"
+                        "NAME_1": "Comunidad Valenciana"
                     }
                 }, {
                     "arcs": [[-37, -4, 48, -29]],
                     "type": "Polygon",
                     "properties": {
-                        "ISO": "ESP",
                         "NAME_0": "Spain",
-                        "ID_1": 945,
-                        "NAME_1": "Extremadura",
-                        "VARNAME_1": "Estremadura|Estrémadure",
-                        "HASC_1": "ES.EX",
-                        "TYPE_1": "Comunidad Autónoma",
-                        "ENGTYPE_1": "Autonomous Community"
+                        "NAME_1": "Extremadura"
                     }
                 }, {
                     "arcs": [[[49]], [[50]], [[51, -31, 52]]],
                     "type": "MultiPolygon",
                     "properties": {
-                        "ISO": "ESP",
                         "NAME_0": "Spain",
-                        "ID_1": 946,
-                        "NAME_1": "Galicia",
-                        "VARNAME_1": "Galice|Gal¡cia|Galicien|Galiza|Galizia",
-                        "HASC_1": "ES.GA",
-                        "TYPE_1": "Comunidad Autónoma",
-                        "ENGTYPE_1": "Autonomous Community"
+                        "NAME_1": "Galicia"
                     }
                 }, {
                     "arcs": [[[53]], [[54]], [[55]], [[56]], [[57]]],
                     "type": "MultiPolygon",
                     "properties": {
-                        "ISO": "ESP",
                         "NAME_0": "Spain",
-                        "ID_1": 947,
-                        "NAME_1": "Islas Baleares",
-                        "VARNAME_1": "Balearic Islands|Balearen|Balearene|Baleares|Islas Baleares|Baleari|Îles Baléares|Ilhas Baleares|Illes Balears",
-                        "HASC_1": "ES.PM",
-                        "TYPE_1": "Comunidad Autónoma",
-                        "ENGTYPE_1": "Autonomous Community"
+                        "NAME_1": "Islas Baleares"
                     }
                 }, {
                     "arcs": [[[58]], [[59]], [[60]], [[61]], [[62]], [[63]], [[64]], [[65]], [[66]], [[67]], [[68]]],
                     "type": "MultiPolygon",
                     "properties": {
-                        "ISO": "ESP",
                         "NAME_0": "Spain",
-                        "ID_1": 948,
-                        "NAME_1": "Islas Canarias",
-                        "VARNAME_1": "Canarias|Canary Islands|Canárias|Ilhas Canárias|Canarie|Îles Canaries|Illes Canàries|Kanariøyene|Kanarische Inseln",
-                        "HASC_1": "ES.CN",
-                        "TYPE_1": "Comunidad Autónoma",
-                        "ENGTYPE_1": "Autonomous Community"
+                        "NAME_1": "Islas Canarias"
                     }
                 }, {
                     "arcs": [[69, -44, -15, -25]],
                     "type": "Polygon",
                     "properties": {
-                        "ISO": "ESP",
                         "NAME_0": "Spain",
-                        "ID_1": 949,
-                        "NAME_1": "La Rioja",
-                        "VARNAME_1": "Rioja",
-                        "HASC_1": "ES.LO",
-                        "TYPE_1": "Comunidad Autónoma",
-                        "ENGTYPE_1": "Autonomous Community"
+                        "NAME_1": "La Rioja"
                     }
                 }, {
                     "arcs": [[-45, -70, -24, -18, 70], [-17], [-23]],
                     "type": "Polygon",
                     "properties": {
-                        "ISO": "ESP",
                         "NAME_0": "Spain",
-                        "ID_1": 950,
-                        "NAME_1": "País Vasco",
-                        "VARNAME_1": "Basque Country|Baskenland|Basque Autonomous Community|Basque Provinces|CAV|Comunidad Autonoma Vasca",
-                        "HASC_1": "ES.PV",
-                        "TYPE_1": "Comunidad Autónoma",
-                        "ENGTYPE_1": "Autonomous Community"
+                        "NAME_1": "País Vasco"
                     }
                 }, {
                     "arcs": [[-20, -32, -52, 71]],
                     "type": "Polygon",
                     "properties": {
-                        "ISO": "ESP",
                         "NAME_0": "Spain",
-                        "ID_1": 951,
-                        "NAME_1": "Principado de Asturias",
-                        "VARNAME_1": "Astúrias|Asturie|Asturien|Asturies|Astúries|Asturias",
-                        "HASC_1": "ES.AS",
-                        "TYPE_1": "Comunidad Autónoma",
-                        "ENGTYPE_1": "Autonomous Community"
+                        "NAME_1": "Principado de Asturias"
                     }
                 }, {
                     "arcs": [[-48, 72, -6, -36]],
                     "type": "Polygon",
                     "properties": {
-                        "ISO": "ESP",
                         "NAME_0": "Spain",
-                        "ID_1": 952,
-                        "NAME_1": "Región de Murcia",
-                        "VARNAME_1": "Murcia|Região de Múrcia|Regió de Múrcia|Région de Murcie|Region of Murcia",
-                        "HASC_1": "ES.MU",
-                        "TYPE_1": "Comunidad Autónoma",
-                        "ENGTYPE_1": "Autonomous Community"
+                        "NAME_1": "Región de Murcia"
                     }
                 }
             ]
