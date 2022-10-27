@@ -14,7 +14,7 @@
                     "properties": {
                         "cod_country": "España",
                         "NAME_1": "Andalucía",
-						"COD_1": "01"
+						"cod_region": "01"
                     }
                 }, {
                     "arcs": [[7, 8, 9, 10, 11, 12, 13, 14, 15]],
@@ -22,7 +22,7 @@
                     "properties": {
                         "cod_country": "España",
                         "NAME_1": "Aragón",
-						"COD_1": "02"
+						"cod_region": "02"
                     }
                 }, {
                     "arcs": [[[16]], [[17, 18, 19, 20], [21]]],
@@ -30,7 +30,7 @@
                     "properties": {
                         "cod_country": "España",
                         "NAME_1": "Cantabria",
-						"COD_1": "05"
+						"cod_region": "05"
                     }
                 }, {
                     "arcs": [[[22]], [[-22]], [[23, 24, -14, 25, 26, 27, 28, 29, 30, 31, -19], [32]]],
@@ -38,7 +38,7 @@
                     "properties": {
                         "cod_country": "España",
                         "NAME_1": "Castilla y León",
-						"COD_1": "07"
+						"cod_region": "07"
                     }
                 }, {
                     "arcs": [[-13, 33, -11, 34, 35, -5, 36, -28, 37, -26]],
@@ -46,7 +46,7 @@
                     "properties": {
                         "cod_country": "España",
                         "NAME_1": "Castilla-La Mancha",
-						"COD_1": "06"
+						"cod_region": "06"
                     }
                 }, {
                     "arcs": [[[38]], [[39, -9, 40]]],
@@ -54,7 +54,7 @@
                     "properties": {
                         "cod_country": "España",
                         "NAME_1": "Cataluña",
-						"COD_1": "08"
+						"cod_region": "08"
                     }
                 }, {
                     "arcs": [[[41]], [[42]]],
@@ -62,7 +62,7 @@
                     "properties": {
                         "cod_country": "España",
                         "NAME_1": "Ceuta y Melilla",
-						"COD_1": "09"
+						"cod_region": "09"
                     }
                 }, {
                     "arcs": [[[-33]], [[-27, -38]]],
@@ -70,7 +70,7 @@
                     "properties": {
                         "cod_country": "España",
                         "NAME_1": "Comunidad de Madrid",
-						"COD_1": "13"
+						"cod_region": "13"
                     }
                 }, {
                     "arcs": [[-16, 43, 44, 45]],
@@ -78,7 +78,7 @@
                     "properties": {
                         "cod_country": "España",
                         "NAME_1": "Comunidad Foral de Navarra",
-						"COD_1": "16"
+						"cod_region": "16"
                     }
                 }, {
                     "arcs": [[[-34, -12]], [[-40, 46, 47, -35, -10]]],
@@ -86,7 +86,7 @@
                     "properties": {
                         "cod_country": "España",
                         "NAME_1": "Comunidad Valenciana",
-						"COD_1": "19"
+						"cod_region": "19"
                     }
                 }, {
                     "arcs": [[-37, -4, 48, -29]],
@@ -94,7 +94,7 @@
                     "properties": {
                         "cod_country": "España",
                         "NAME_1": "Extremadura",
-						"COD_1": "10"
+						"cod_region": "10"
                     }
                 }, {
                     "arcs": [[[49]], [[50]], [[51, -31, 52]]],
@@ -102,7 +102,7 @@
                     "properties": {
                         "cod_country": "España",
                         "NAME_1": "Galicia",
-						"COD_1": "11"
+						"cod_region": "11"
                     }
                 }, {
                     "arcs": [[[53]], [[54]], [[55]], [[56]], [[57]]],
@@ -110,7 +110,7 @@
                     "properties": {
                         "cod_country": "España",
                         "NAME_1": "Islas Baleares",
-						"COD_1": "03"
+						"cod_region": "03"
                     }
                 }, {
                     "arcs": [[[58]], [[59]], [[60]], [[61]], [[62]], [[63]], [[64]], [[65]], [[66]], [[67]], [[68]]],
@@ -118,7 +118,7 @@
                     "properties": {
                         "cod_country": "España",
                         "NAME_1": "Islas Canarias",
-						"COD_1": "04"
+						"cod_region": "04"
                     }
                 }, {
                     "arcs": [[69, -44, -15, -25]],
@@ -126,7 +126,7 @@
                     "properties": {
                         "cod_country": "España",
                         "NAME_1": "La Rioja",
-						"COD_1": "12"
+						"cod_region": "12"
                     }
                 }, {
                     "arcs": [[-45, -70, -24, -18, 70], [-17], [-23]],
@@ -134,7 +134,7 @@
                     "properties": {
                         "cod_country": "España",
                         "NAME_1": "País Vasco",
-						"COD_1": "17"
+						"cod_region": "17"
                     }
                 }, {
                     "arcs": [[-20, -32, -52, 71]],
@@ -142,7 +142,7 @@
                     "properties": {
                         "cod_country": "España",
                         "NAME_1": "Principado de Asturias",
-						"COD_1": "18"
+						"cod_region": "18"
                     }
                 }, {
                     "arcs": [[-48, 72, -6, -36]],
@@ -150,7 +150,7 @@
                     "properties": {
                         "cod_country": "España",
                         "NAME_1": "Región de Murcia",
-						"COD_1": "15"
+						"cod_region": "15"
                     }
                 }
             ]
